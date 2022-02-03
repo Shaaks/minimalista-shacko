@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "Kelson-Regular";
+    src: url(../Fonts/Kelson-Regular.ttf);
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Kelson-Light";
+    src: url(../Fonts/Kelson-Light.ttf);
+    font-style: normal;
+}
